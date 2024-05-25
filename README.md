@@ -1,2 +1,1 @@
-# sql-stmt
-Prepared Statements
+# SQL Prepared Statements
